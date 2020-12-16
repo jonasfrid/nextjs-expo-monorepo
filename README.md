@@ -1,0 +1,1 @@
+This is a monorepo containing an expo app, a nextjs app, and a shared project folder to share code between the two. Shared UI components are written in  Native and transpiled for web using react-native-web.
